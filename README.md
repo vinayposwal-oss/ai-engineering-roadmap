@@ -16,7 +16,7 @@ I'm an AI Engineering student documenting my progress, projects, and experiments
 ## Progress
 
 ### Week 1
-- [ ] Git & GitHub
+ [ ] Git & GitHub
 - [ ] Python Basics
 - [ ] Data Structures
 
