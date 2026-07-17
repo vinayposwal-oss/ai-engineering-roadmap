@@ -1,4 +1,4 @@
-# Day 1 - Git & GitHub Setup
+git status # Day 1 - Git & GitHub Setup
 
 **Date:** 22 July 2025
 
@@ -26,5 +26,5 @@ Today I completed my development environment setup and created my first GitHub r
 
 ## 🎯 Next
 
+- Learn Python variables & data types.
 - Create `python-fundamentals`
-- Learn Python variables and data types.
