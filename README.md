@@ -1,40 +1,31 @@
-# AI Engineering Journey 🚀
+# 🚀 AI Engineering Journey
 
-Welcome to my AI Engineering learning journey!
+Welcome to my AI Engineering learning journey.
 
-## About Me
-I'm an AI Engineering student documenting my progress, projects, and experiments as I learn.
+## 👋 About Me
 
-## Goals
+Hi, I'm Vinay, an AI Engineering student building projects and documenting my learning every day.
+
+## 🎯 Goals
+
 - Learn Python
+- Master Git & GitHub
 - Learn Machine Learning
 - Learn Deep Learning
-- Learn LLMs
-- Build AI Projects
+- Build AI Applications
+- Learn Large Language Models (LLMs)
 - Contribute to Open Source
 
-## Progress
+## 📅 Progress
 
 ### Week 1
-- [ ] Git & GitHub
+- [x] GitHub Setup
+- [x] Development Environment
 - [ ] Python Basics
-- [ ] Data Structures
-
-### Week 2
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Machine Learning
-
-### Week 3
-- [ ] Deep Learning
-- [ ] PyTorch
-
-### Week 4
-- [ ] LLMs
-- [ ] RAG
-- [ ] FastAPI
-
-## Daily Log
+- [ ] Variables & Data Types
+- [ ] Functions
 
 ### Day 1
-Started my AI Engineering GitHub journey.
+- Repository created
+- Project structure organized
+- Development environment ready
