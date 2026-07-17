@@ -2,9 +2,9 @@
 today i have learned about my setup of git , github and visual studio code .
 some things that i have to use repeatedly i.e 
 # 👉 git work flow 
-Edit files(the change made in any file )
 
-            ↓
+    Edit files(the change made in any file )
+             ↓
     git status(to check what have changed or which file is changed or edited )
 
               ↓
